@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef81fcc57651a343b297136fb8f7a54, type: 3}
+  m_Name: Block_Z
+  m_EditorClassIdentifier: 
+  kType: 6
+  kTile: {fileID: 11400000, guid: ec78093ef96af2c41927e76f97f7c55f, type: 2}
+  kCells:
+  - {x: -1, y: 1}
+  - {x: 0, y: 1}
+  - {x: 0, y: 0}
+  - {x: 1, y: 0}
+  kBlockSprite: {fileID: 21300000, guid: 4878b0f8e08e7f8429f9075b9f4ea32b, type: 3}
